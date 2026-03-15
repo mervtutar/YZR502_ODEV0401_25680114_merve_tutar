@@ -1,8 +1,7 @@
 # 2-DoF Planar Robot Kolu – Dinamik Modelleme ve Ters Dinamik Kontrol Simülasyonu
 
 **Ders:** YZR502u04a01 | **Ödev:** ÖDEV0401  
-**GitHub:** https://github.com/kullanici/robot-2dof  
-**YouTube (Sunum):** https://youtu.be/XXXXXXXXXXXXX
+**YouTube (Sunum):** 
 
 ---
 
