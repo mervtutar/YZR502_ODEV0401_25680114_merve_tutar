@@ -1,7 +1,7 @@
 # 2-DoF Planar Robot Kolu – Dinamik Modelleme ve Ters Dinamik Kontrol Simülasyonu
 
 **Ders:** YZR502u04a01 | **Ödev:** ÖDEV0401  
-**YouTube (Sunum):** 
+**YouTube (Sunum):** https://youtu.be/6IXRZU21WQg
 
 ---
 
