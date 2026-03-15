@@ -1,9 +1,6 @@
 """
 2-DOF Planar RR Robot - Dynamic Model and Inverse Dynamics Controller
-Course: YZR502u04a01 - ODEV0401
-
 Dynamics derived using the Lagrange method.
-
 Robot Parameters:
     L1 = 0.5 m,  L2 = 0.5 m
     m1 = 1.0 kg, m2 = 0.5 kg
